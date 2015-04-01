@@ -1,0 +1,13 @@
+# Site settings
+title: Digital Cuisine blog
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Digital Cuisine is a place where something is always cooking.
+  The latest thoughts from our cooks.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://digitalcuisine.github.io" # the base hostname & protocol for your site
+twitter_username: digital_cuisine
+github_username:  digitalcuisine
+
+# Build settings
+markdown: kramdown
